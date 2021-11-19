@@ -1,0 +1,31 @@
+{
+  "name": "react-native-mlist-masonry",
+  "version": "1.0.0",
+  "description": "React Native Masonry List for Pinterest like UI implemented just like the [FlatList].",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyochan/react-native-masonry-list.git"
+  },
+  "keywords": [
+    "masonry",
+    "react-native",
+    "masonry-list",
+    "pinterest",
+    "flatlist"
+  ],
+  "author": "hyochan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bashen1/react-native-mlist-masonry/issues"
+  },
+  "homepage": "https://github.com/bashen1/react-native-mlist-masonry#readme",
+  "peerDependencies": {
+    "react": ">=16.9",
+    "react-native": ">=0.58"
+  }
+}
