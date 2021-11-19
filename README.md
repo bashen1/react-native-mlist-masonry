@@ -2,7 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/react-native-mlist-masonry.svg)](https://badge.fury.io/js/react-native-mlist-masonry)
 
-此项目基于(react-native-masonry-list)[https://github.com/hyochan/react-native-masonry-list]，版本1.1.1
+此项目基于 [react-native-masonry-list](https://github.com/hyochan/react-native-masonry-list) ，版本1.1.1
 
 ## 开始
 
